@@ -19,4 +19,4 @@ This repository contains my Malware Types & Behavior Analysis (Basic) task, whic
 - ChatGPT – Concept understanding and documentation support
 
 🎓 Purpose
-This task was completed as part of my academic learning to understand malware types, malicious behavior, detection techniques, and prevention methods. It combines theoretical knowledge with practical analysis using industry-standard tools.
+- This task was completed as part of my academic learning to understand malware types, malicious behavior, detection techniques, and prevention methods. It combines theoretical knowledge with practical analysis using industry-standard tools.
